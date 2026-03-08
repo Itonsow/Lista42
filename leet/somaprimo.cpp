@@ -1,0 +1,1 @@
+//faca um codigo para somar todos os primos ate o numero que o usuario digitars
